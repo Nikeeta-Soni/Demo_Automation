@@ -1,4 +1,4 @@
-# Automation Practice Framework
+# Automation Framework
 
 A comprehensive end-to-end test automation framework built with **Playwright** for the [Automation Exercise](http://automationexercise.com) e-commerce demo application. This project demonstrates modern web automation best practices using the Page Object Model pattern with stable selectors and explicit assertions.
 
